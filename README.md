@@ -1,7 +1,8 @@
 # 🌠 cosmic-elevator (Sooji Choi)
+## Introduction
+- College of Liberal Studies (majoring computer science)
+- Currently learning Typescript and Next.js
 
-- 🎓 I'm going to major <b>computer science and philosophy</b>
-- 🔭 I’m currently working on <b>my portfolio page</b>
-- 🌱 I’m currently learning <b>React</b>
-- 📫 How to reach me: <b>mail me on cosmic_elevator@mailbox.org</b>
-- 😄 Pronouns: <b>they, them</b>
+## Fediverse
+- Mastodon: <a href="https://uri.life/@cosmic_elevator"><b>@cosmic_elevator@uri.life</b></a>
+- Hackers' Pub: <a href="https://hackers.pub/@cosmic_elevator"><b>@cosmic_elevator@hackers.pub</b><a>
